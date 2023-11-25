@@ -43,6 +43,7 @@ gem "bootsnap", require: false
 
 gem 'haml-rails'
 
+# esbuild使うのに必要
 gem "jsbundling-rails"
 gem "cssbundling-rails"
 
