@@ -1,24 +1,16 @@
-# README
+# 概要
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+オンライン対戦できるリバーシ。
 
-Things you may want to cover:
+## ロードマップ
 
-* Ruby version
+### v1
 
-* System dependencies
+最低限のリバーシの機能だけを作成する。 ゲームの開始、対戦相手の参加、その他の観戦ができる機能だけを用意する。
 
-* Configuration
+ユーザ管理、CPU戦の実装等は現段階だとやらない。
 
-* Database creation
+### v2
 
-* Database initialization
+なんかアホな機能つける。爆弾とか枠拡張とか
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
